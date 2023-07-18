@@ -1,4 +1,4 @@
-# Assignment 4 - The Game of Life
+# The Game of Life
 This assignment mainly ask as to make two files: universe.c, life.c.  We should also create Makefile and DESIGN.pdf.
 
 ## Automate compilation by using Makefile
